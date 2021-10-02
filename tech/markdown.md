@@ -1,0 +1,3 @@
+# JT Notes
+
+Just record my trivia here, include life, tech, others...
