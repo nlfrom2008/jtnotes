@@ -1,0 +1,24 @@
+#AWS Studying
+- We are using following AWS Services:
+  - Amplify
+  - Budgets
+  - CloudTrail
+  - Data Transfer
+  - DynamoDB
+  - Elastic Compute Cloud
+  - Elastic Load Balancing
+  - ElastiCache
+  - Glacler
+  - GuardDuty
+  - Key Management Service
+  - Registrar
+  - Relational Database Service
+  - Route 53
+  - S3 Glacler Deep Archive
+  - Secrets Manager
+  - Simple Email Service
+  - Simple Notification Service
+  - Simple Queue Service
+  - Simple Storage Service
+  - Support (Business)
+  - Transfer Family
