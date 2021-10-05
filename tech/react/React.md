@@ -1,10 +1,15 @@
-# React
+# React 17
 - babel.min.js
+  - Convert ES6 to ES5
+  - Convert JSX to JS
 - react.development.js
-- react-dom.development.sj
+  - react core lib
+- react-dom.development.js
+  - react extention lib
 
-- git remote add nlfrom2008 https://github.com/nlfrom2008/jtnotes.git
-- git push nlfrom2008
+When push or pull to main, use following commmands:
+- git remote add nlfrom2008 https://github.com/nlfrom2008/jtnotes.git (Once ran on a machine, No need do again)
+- git push/pull nlfrom2008 main
 
 
 ```
