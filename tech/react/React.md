@@ -22,6 +22,14 @@
     2. for () {} 
     3. .swith(){case: xxx}  
 
+## Simple component vs complex component
+  - Simple component - No state component
+  - Complex component - with state component
+
+## 3 features of Component instant object
+  1. State
+  2. 
+
 When push or pull to main, use following commmands:
 - git remote add nlfrom2008 https://github.com/nlfrom2008/jtnotes.git (Once ran on a machine, No need do again) 
 - git push/pull nlfrom2008 main
