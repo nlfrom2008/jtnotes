@@ -30,6 +30,14 @@
   1. State
   2. 
 
-
+# How to use react
+1. react framework - create-react-app
+2. framework structure: react + webpack + es6 + eslint
+## Create project and installation
+1. Global installation - npm install -g create-react-app
+2. change to your project directory, use following command:
+  create-react-app hello-react
+3. enter your project directory - cd hello-react
+4. start your project - npm start
 
 ```
