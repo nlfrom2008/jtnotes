@@ -40,4 +40,7 @@
 3. enter your project directory - cd hello-react
 4. start your project - npm start
 
-```
+### Where is the state, where is the method of operating the state.
+
+### React config multiple proxy
+- under /src directory, create a js file named setupProxy.js
