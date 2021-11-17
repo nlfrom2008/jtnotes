@@ -4,6 +4,10 @@
 - git push/pull origin master (for react01)
 
 # How to push local dir/files to github:
-- Run
-> - git config --global user.email "you@example.com"
-> - git config --global user.name "Your Name"
+1. create a new repository on the Github (react01)
+2. run: git remote add origin https://github.com/nlfrom2008/react02.git
+  - echo:  error: remote origin already exists.
+  - if echo above message, run: git remote rm origin
+3. re-run: git remote add origin https://github.com/nlfrom2008/react02.git
+4. run: git push origin master
+5. confirm all the directories and files have benn pushed to Github.
