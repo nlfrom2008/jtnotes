@@ -13,4 +13,4 @@
 5. confirm all the directories and files have benn pushed to Github.
 
 ## error: src refspec main does not match any
-- 
+- operated at wrong directory.
