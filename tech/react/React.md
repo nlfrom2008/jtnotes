@@ -44,3 +44,18 @@
 
 ### React config multiple proxy
 - under /src directory, create a js file named setupProxy.js
+> const proxy = require('http-proxy-middleware')
+  module.exports = function (app){
+    app.use(
+      proxy('/api1', {//when prefix has /api1, the proxy will be used.
+        target: 'http://localhost:5000',
+        changeOrigin: true,//Control server will receive the Host value of the request
+        pathRewrite: {'^/api1':''}//rewrite request path (Required)
+      }),
+      proxy('/api2', {
+        target: 'http://localhost:5001',
+        changeOrigin: true,
+        pathRewrite: {'^/api2':''}
+      })
+    )
+  }
