@@ -9,7 +9,7 @@
   - echo:  error: remote origin already exists.
   - if echo above message, run: git remote rm origin
 3. re-run: git remote add origin https://github.com/nlfrom2008/react02.git
-4. run: git push origin master or git push -u origin main 
+4. run: git push origin master (for react project) or git push -u origin main  (for vue project)
 5. confirm all the directories and files have benn pushed to Github.
 
 ## error: src refspec main does not match any
